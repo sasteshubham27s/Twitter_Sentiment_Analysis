@@ -259,7 +259,7 @@ Twitter Sentiment Analysis Using Django and NLP
 
 ### Academic Project
 
-Bachelor of Engineering / Computer Engineering
+Bachelor in Computer Application
 
 ---
 
